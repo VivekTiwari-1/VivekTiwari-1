@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open-source contributions
 - 🌱 I’m currently learning Web Development and DSA using Java language
 - 💞️ I’m looking to collaborate on Frontend projects
-- 📫 Reach out to me through my LinkedIn account, I love collaborating and working in team
+- 📫 Reach out to me on LinkedIn , I love collaborating and working in team
 
 <!---
 VivekTiwari-1/VivekTiwari-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
