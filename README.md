@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Tiwari, a Computer Science Student
 - 👀 I’m interested in Open-source contributions
-- 🌱 I’m currently learning Web Development using MERN Stack and Data Structures and Algorithm
+- 🌱 I’m currently learning Data Structures and Algorithm and Web Development using MERN Stack
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 Reach out to me on LinkedIn , I love collaborating and working with team   
 
