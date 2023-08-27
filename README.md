@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vivek Tiwari, a passionate Computer Science Student, proefficient in Java
+- 👋 Hi, I’m Vivek Tiwari, a passionate Computer Science Student, proficient in Java, frontend developer
 - 👀 I’m interested in Open-source contributions
 - 🌱 I’m currently learning Data Structures and Algorithm and Web Development using MERN Stack
 - 💞️ I’m looking to collaborate on Frontend projects
