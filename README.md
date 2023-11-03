@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Tiwari, a passionate Computer Science Student, proficient in Java, frontend developer
 - 👀 I’m interested in Open-source contributions
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 Reach out to me on LinkedIn , I love collaborating and working in a team   
 
