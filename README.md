@@ -1,7 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Vivek Tiwari</h1>
+<h3 align="center">A passionate Computer Science student from India</h3>
+<br/>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektiwari-1&label=Profile%20views&color=0e75b6&style=flat" alt="vivektiwari-1" /> </p>
 
+- 🌱 I’m currently learning **Backend Development**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **vivektiwarii4545@gmail.com**
+- 
 <img align="right" height="150" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif"  />
 
 ###
@@ -44,12 +52,13 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vivek-tiwari-b929a822b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-tiwari-b929a822b" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@vivektiwarii4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vivektiwarii4545" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vivektiwasrkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivektiwasrkz" height="30" width="40" /></a>
+</p>
 
 ###
+
