@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektiwari-1&label=Profile%20views&color=0e75b6&style=flat" alt="vivektiwari-1" /> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently mastering **Blockchain Development**
 
 - 📫 How to reach me **vivektiwarii4545@gmail.com**
 - 
