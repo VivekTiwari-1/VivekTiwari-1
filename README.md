@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vivek Tiwari</h1>
+<h1 align="center">Hi 🙋, I'm Vivek Tiwari</h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=01DFE3&width=380&height=28&lines=Full-stack+Web+developer;Blockchain+Developer;Problem+Solver..;Web3+Enthusiast..;Nice+To+Meet+You+:)&center=true" margin="40"></a></p>
-<h3 align="center">Welcome to my Github Profile🙂 </h3>
+<h3 align="center">Welcome to my Github Profile💁 </h3>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on AI-based Mock interview project
   
-- 👯 I’m looking to collaborate on real-world and impactful projects
+- 👯 I'll love to collaborate on real-world and impactful projects
   
 - 🤔 I’m looking for help with Blockchain development
 
@@ -59,7 +59,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekTiwari-1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=VivekTiwari-1&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VivekTiwari-1&theme=radical&hide_border=false)
+
 <br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VivekTiwari-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
