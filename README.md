@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Tiwari</h1>
-<h3 align="center">Welcome to my Github Profile, I'm a <img src="https://readme-typing-svg.herokuapp.com?color=01DFE3&width=380&height=28&lines=Full-stack+Web+developer;Blockchain+Developer;Problem+Solver;Web3+Enthusiast..;Nice+To+Meet+You+....&center=true"></a></h3>
+<h3 align="center">Welcome to my Github Profile, I'm a <img src="https://readme-typing-svg.herokuapp.com?color=01DFE3&width=380&height=20&lines=Full-stack+Web+developer;Blockchain+Developer;Problem+Solver..;Web3+Enthusiast..;Nice+To+Meet+You+:)&center=true"></a></h3>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektiwari-1&label=Profile%20views&color=0e75b6&style=flat" alt="vivektiwari-1" /> </p>
