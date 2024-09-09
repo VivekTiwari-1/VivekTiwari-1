@@ -12,7 +12,7 @@
   
 - 🤔 I’m looking for help with Blockchain development
 
-- 📫 How to reach me **vivektiwarii4545@gmail.com**
+- 📫 How to reach me 👉 https://vivektiwari.vercel.app/
   
  <br/>
   
