@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋, I'm Vivek Tiwari</h1>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=01DFE3&width=380&height=28&lines=Full-stack+Web+developer;Blockchain+Developer;Problem+Solver..;Web3+Enthusiast..;Nice+To+Meet+You+:)&center=true" margin="40"></a></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=01DFE3&width=380&height=28&lines=Full-stack+Web+developer;Web3+Developer;Problem+Solver..;Web3+Enthusiast..;Nice+To+Meet+You+:)&center=true" margin="40"></a></p>
 <h3 align="center">Welcome to my Github Profile💁 </h3>
 
 <br/>
@@ -68,8 +68,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vivek-tiwari-b929a822b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-tiwari-b929a822b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vivektiwarii4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vivektiwarii4545" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vivektiwasrkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivektiwasrkz" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/@vivektiwarii4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vivektiwarii4545" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vivektiwasrkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivektiwasrkz" height="30" width="40" /></a> -->
 </p>
 
 <br/>
