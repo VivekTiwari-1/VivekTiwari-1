@@ -65,13 +65,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VivekTiwari-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vivek-tiwari-b929a822b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-tiwari-b929a822b" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/@vivektiwarii4545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vivektiwarii4545" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vivektiwasrkz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vivektiwasrkz" height="30" width="40" /></a> -->
-</p>
-
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektiwari-1&label=Profile%20views&color=0e75b6&style=flat" alt="vivektiwari-1" /> </p>
