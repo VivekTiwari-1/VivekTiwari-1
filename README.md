@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
-- 🔭 I’m currently working on AI-based Mock interview project
+- 🔭 I’m working on AI-powered multiplayer storytelling game project
   
 - 👯 I'll love to collaborate on real-world and impactful projects
   
