@@ -32,7 +32,7 @@
 <br/>
 
 ## 📈 GitHub Statistics
-<p align="center">
+<p >
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VivekTiwari-1&show_icons=true&theme=radical" alt="Vivek's Stats" />
   <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VivekTiwari-1&layout=compact&theme=radical" alt="Top Langs" /> -->
 </p>
