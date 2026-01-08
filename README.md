@@ -6,18 +6,20 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
-- 🔭 I’m working on AI-powered multiplayer storytelling game project
+- 🔭 Building scalable full-stack web applications
+  
+- 🧩 Strong interest in system design & backend architecture
   
 - 👯 I'll love to collaborate on real-world and impactful projects
   
-- 🤔 I’m looking for help with Blockchain development
+- 🤔 I’m looking for opportunities in development
 
 - 📫 Portfolio👉 https://vivektiwari.vercel.app/
   
  <br/>
   
 ## 🖥️ Technical Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,nextjs,redux,tailwindcss,html,css,bootstrap,nodejs,express,prisma,mongodb,appwrite,solidity,remix,ipfs,git,github,linux,ubuntu,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,nextjs,redux,tailwindcss,html,css,nodejs,express,prisma,mongodb,appwrite,pnpm,aws,docker,kafka,jenkins,nginx,postman,git,github,linux,ubuntu,vscode,idea)](https://skillicons.dev)
 <div >
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
 	<code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
@@ -29,15 +31,15 @@
 </div>
 <br/>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekTiwari-1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=VivekTiwari-1&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VivekTiwari-1&theme=radical&hide_border=false)
+## 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VivekTiwari-1&show_icons=true&theme=radical" alt="Vivek's Stats" />
+  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VivekTiwari-1&layout=compact&theme=radical" alt="Top Langs" /> -->
+</p>
 
-<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VivekTiwari-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekTiwari-1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VivekTiwari-1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VivekTiwari-1&theme=github_dark)
 
 <br/>
 
